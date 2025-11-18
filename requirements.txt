@@ -1,3 +1,4 @@
+yfinance
 pandas
 matplotlib
 seaborn
@@ -6,4 +7,3 @@ numpy
 plotly
 statsmodels
 streamlit
-yfinance
